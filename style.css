@@ -1,0 +1,63 @@
+li{
+
+    color: rgb(14, 231, 87);
+    text-decoration: none;
+
+}
+
+
+.span{font-size: 200px;}
+
+.bag{
+
+    color: black;
+    text-decoration: none;
+    height: 80px;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5%;
+    
+
+
+}
+.bag ul{list-style: none; display: flex; margin-top: 37px; margin-left: 50px;}
+.bag ul li { padding: 0px 0px; }
+.bag ul li a { text-decoration: none; font-size: 20px; margin-right: 60px; color: black; margin-top: 20px;
+}
+
+button {  background-color: rgb(255, 51, 51); width: 150px; height: 35px; color: white; 
+     border-color: white; padding: 5px; }
+
+.bigwelcome{display: flex; padding: 10px; }
+.welcome{ color: rgb(0, 0, 0); width: 35%; margin-left: 90px;  font-size: 26px;   } 
+.welcome2 {   width:40px ; height: 40px; margin-left: 140px;}       
+
+.para{margin-bottom: 400px; color: rgb(12, 200, 146); margin-left: 400px;}
+
+.twobuttons  {   margin-left: 40px;     }
+
+.box1 { width: 45%; border-style: ridge; margin-left: 130px; padding: 30px; background-image: radial-gradient();}  
+.box2 { width: 45%; border-style: ridge; margin-left: 60px; margin-right: 30px; padding: 30px;}
+.box3 { width: 45%; border-style: ridge; margin-right: 30px; padding: 30px;}   
+.bigspan  {   display: flex;background-color: re;                         }
+
+.orangetext  { width: 80%; }
+.orangeimage {   width: 30%;   margin-left: 200px; width: 20px; height: 20px;  margin-right: 400px;}
+.bigspantwo  {  display: flex; margin-left: 5%;}
+
+.bigform     {  margin-left: 30px;   }
+
+.forms input{
+    
+   margin: 0%;
+   padding: 20px; 
+   color: rgb(201, 123, 7);
+   border-top: none; border-left: none ; border-right: none;
+   width: 600px;
+}    
+.formspan { width: 60%;}
+.bigspan  { display: flex;  }
+
+.end      { display: flex; margin-bottom: 20%;}
